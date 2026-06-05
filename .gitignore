@@ -3,3 +3,6 @@ __pycache__/
 error.log
 launcher.log
 reminders.json
+build/
+dist/
+*.spec
