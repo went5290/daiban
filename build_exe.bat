@@ -19,6 +19,8 @@ if errorlevel 1 (
     --noconsole ^
     --uac-admin ^
     --onefile ^
+    --icon assets\app.ico ^
+    --add-data "assets;assets" ^
     --name DaibanReminder ^
     run_reminder.pyw
 
